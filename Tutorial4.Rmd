@@ -6,5 +6,3 @@ output:
     bookdown::html_document2
 keep_md: true
 ---
-
-this is video
